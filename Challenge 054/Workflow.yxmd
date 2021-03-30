@@ -103,7 +103,7 @@ DATE | DESCRIPTION | AUTHOR
     </Node>
     <Node ToolID="60">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="426" y="54" width="957" height="224" />
+        <Position x="426" y="54" width="946" height="224" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -121,7 +121,7 @@ DATE | DESCRIPTION | AUTHOR
       <ChildNodes>
         <Node ToolID="46">
           <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-            <Position x="436" y="89" width="144" height="35" />
+            <Position x="436" y="88" width="144" height="35" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -141,7 +141,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="47">
           <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-            <Position x="593" y="89" width="528" height="36" />
+            <Position x="593" y="88" width="517" height="37" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -161,7 +161,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="48">
           <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-            <Position x="1133" y="88" width="240" height="35" />
+            <Position x="1122" y="89" width="240" height="35" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -181,7 +181,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="4">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-            <Position x="437" y="137" />
+            <Position x="438" y="138" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -226,7 +226,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="32">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-            <Position x="437" y="209" />
+            <Position x="438" y="209" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -276,7 +276,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="36">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="533" y="137" />
+            <Position x="534" y="137" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -297,7 +297,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="33">
           <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
-            <Position x="629" y="137" />
+            <Position x="630" y="138" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -324,7 +324,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="34">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
-            <Position x="725" y="136" />
+            <Position x="726" y="138" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -346,7 +346,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="35">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="821" y="137" />
+            <Position x="822" y="138" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -369,7 +369,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="37">
           <GuiSettings Plugin="AlteryxBasePluginsGui.RegEx.RegEx">
-            <Position x="917" y="137" />
+            <Position x="918" y="138" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -404,7 +404,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="38">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
-            <Position x="1013" y="137" />
+            <Position x="1014" y="138" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -426,7 +426,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="39">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
-            <Position x="1121" y="137" />
+            <Position x="1110" y="138" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -450,7 +450,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="40">
           <GuiSettings>
-            <Position x="1217" y="137" />
+            <Position x="1206" y="138" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -478,7 +478,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="41">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="1313" y="137" />
+            <Position x="1302" y="138" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -506,7 +506,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="13">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-            <Position x="1217" y="209" />
+            <Position x="1206" y="210" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -569,7 +569,7 @@ DATE | DESCRIPTION | AUTHOR
         </Node>
         <Node ToolID="15">
           <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
-            <Position x="1313" y="209" />
+            <Position x="1302" y="210" />
           </GuiSettings>
           <Properties>
             <Configuration>
