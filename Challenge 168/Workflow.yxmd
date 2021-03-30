@@ -3,7 +3,7 @@
   <Nodes>
     <Node ToolID="71">
       <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
-        <Position x="415" y="43" width="848" height="295" />
+        <Position x="416" y="44" width="848" height="295" />
       </GuiSettings>
       <Properties>
         <Configuration>
@@ -21,7 +21,7 @@
       <ChildNodes>
         <Node ToolID="72">
           <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-            <Position x="425" y="78" width="144" height="40" />
+            <Position x="426" y="77" width="144" height="40" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -119,7 +119,7 @@
         </Node>
         <Node ToolID="4">
           <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
-            <Position x="426" y="270" />
+            <Position x="426" y="269" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -158,7 +158,7 @@
         </Node>
         <Node ToolID="73">
           <GuiSettings Plugin="AlteryxGuiToolkit.TextBox.TextBox">
-            <Position x="582" y="77" width="420" height="40" />
+            <Position x="582" y="78" width="420" height="40" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -203,7 +203,7 @@
         </Node>
         <Node ToolID="51">
           <GuiSettings Plugin="AlteryxBasePluginsGui.AppendFields.AppendFields">
-            <Position x="714" y="126" />
+            <Position x="714" y="125" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -228,7 +228,7 @@
         </Node>
         <Node ToolID="53">
           <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
-            <Position x="810" y="125" />
+            <Position x="810" y="126" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -295,7 +295,7 @@ Value - Descending</DefaultAnnotationText>
         </Node>
         <Node ToolID="58">
           <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
-            <Position x="618" y="269" />
+            <Position x="618" y="270" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -320,7 +320,7 @@ Value - Descending</DefaultAnnotationText>
         </Node>
         <Node ToolID="61">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
-            <Position x="714" y="269" />
+            <Position x="714" y="270" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -372,7 +372,7 @@ Value - Descending</DefaultAnnotationText>
         </Node>
         <Node ToolID="63">
           <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
-            <Position x="906" y="269" />
+            <Position x="906" y="270" />
           </GuiSettings>
           <Properties>
             <Configuration>
@@ -391,7 +391,7 @@ Value - Descending</DefaultAnnotationText>
         </Node>
         <Node ToolID="64">
           <GuiSettings>
-            <Position x="1002" y="269" />
+            <Position x="1002" y="270" />
           </GuiSettings>
           <Properties>
             <Configuration>
